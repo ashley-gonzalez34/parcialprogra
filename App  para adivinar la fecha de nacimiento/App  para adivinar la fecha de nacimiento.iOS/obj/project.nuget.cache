@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/LKr5Hkxi4T+Nl8Zt7EUCFAheYar0D9/7T+OS+kSQvRIWqU+rQo3y/JMHHSoPJjoztNcyGQcVdlVUgSmi4FBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASHLEY\\Desktop\\PARCIAL PROGRMA 1\\App  para adivinar la fecha de nacimiento\\App  para adivinar la fecha de nacimiento.iOS\\App  para adivinar la fecha de nacimiento.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

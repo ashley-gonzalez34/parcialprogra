@@ -1,0 +1,14 @@
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\app de adivinar el numero.csprojAssemblyReference.cache
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\app de adivinar el numero.AssemblyInfoInputs.cache
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\app de adivinar el numero.AssemblyInfo.cs
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\app de adivinar el numero.csproj.CoreCompileInputs.cache
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\bin\Debug\netstandard2.0\app de adivinar el numero.deps.json
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\bin\Debug\netstandard2.0\app de adivinar el numero.dll
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\bin\Debug\netstandard2.0\ref\app de adivinar el numero.dll
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\bin\Debug\netstandard2.0\app de adivinar el numero.pdb
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\app de adivinar el numero.dll
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\ref\app de adivinar el numero.dll
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\app de adivinar el numero\app de adivinar el numero\obj\Debug\netstandard2.0\app de adivinar el numero.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="app_de_adivinar_el_numero.MainPage">
+
+    <StackLayout>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Bienvenido al juego" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Label Text="Jueguemos, te parece" />
+            <Label Text=" Piensa en un numero y multiplicalo por 2, sumale 8 y multiplicalo por 5"/>
+            <Label Text=" Ingresa resultado "/>
+            <Entry Placeholder="___" x:Name="Numero"/>
+            <Label Text="El resultado es"/>
+            <Entry Placeholder="___" x:Name="Resultado"/>
+            <Button Text="Adivinar numero" x:Name="Adivinar" Clicked="Adivinar_Clicked" />
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

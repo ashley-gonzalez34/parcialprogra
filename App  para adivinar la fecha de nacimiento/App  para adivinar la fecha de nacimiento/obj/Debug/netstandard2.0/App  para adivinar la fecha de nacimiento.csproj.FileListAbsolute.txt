@@ -1,0 +1,14 @@
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.csprojAssemblyReference.cache
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.AssemblyInfoInputs.cache
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.AssemblyInfo.cs
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.csproj.CoreCompileInputs.cache
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\bin\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.deps.json
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\bin\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.dll
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\bin\Debug\netstandard2.0\ref\App  para adivinar la fecha de nacimiento.dll
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\bin\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.pdb
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.dll
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\ref\App  para adivinar la fecha de nacimiento.dll
+C:\Users\ASHLEY\Desktop\PARCIAL PROGRMA 1\App  para adivinar la fecha de nacimiento\App  para adivinar la fecha de nacimiento\obj\Debug\netstandard2.0\App  para adivinar la fecha de nacimiento.pdb
