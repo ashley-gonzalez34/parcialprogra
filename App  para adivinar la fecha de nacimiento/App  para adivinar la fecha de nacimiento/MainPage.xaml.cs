@@ -26,7 +26,7 @@ namespace App__para_adivinar_la_fecha_de_nacimiento
             cadena2 = cadena2.Substring((tamCadena - 2), 2);
             cadena1 = cadena1.Remove(cadena1.Length - 2);
 
-            int resta = int.Parse(cadena1) - 4;
+            int resta = int.Parse(cadena1) - 365;
 
 
             Resultado.Text = resta.ToString();
